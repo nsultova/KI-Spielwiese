@@ -1,7 +1,6 @@
 vsketch-master/
 poetry.lock
 *.svg
-*.ipynb
 *.jpg
 *.jpeg
 *.png
